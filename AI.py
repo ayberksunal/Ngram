@@ -1,6 +1,4 @@
 import collections # When we add a new variable, it determinde the place randomly.So, I imported this to sort the dict(key-value). BecauseExmp: merhaba mer erh rha... with this sort
-#AYBERK SUNAL
-#113200034
 
 '''
 nGramCounter Function
